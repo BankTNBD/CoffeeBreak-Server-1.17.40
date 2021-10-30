@@ -1,0 +1,22 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "particles_damage:particles_base": {
+            "+states": [
+                "Blending",
+                "DisableDepthWrite"
+            ],
+            "depthFunc": "Always",
+            "+samplerStates": [
+                {
+                    "samplerIndex": 0,
+                    "textureFilter": "Point"
+                }
+            ],
+            "depthBias": 100.0,
+            "slopeScaledDepthBias": 15.0,
+            "depthBiasOGL": 100.0,
+            "msaaSupport": "Both"
+        }
+    }
+}

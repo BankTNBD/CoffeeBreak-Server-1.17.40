@@ -1,0 +1,12 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "particles_damage:particles_base": {
+            "depthFunc": "Always",
+            "+defines": [
+                "ALPHA_TEST",
+                "USE_EMISSIVE"
+            ]
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:axolotl",
+      "materials": {
+        "default": "axolotl",
+        "limbs": "axolotl_limbs",
+        "hp": "entity_emissive_alpha"
+      },
+      "textures": {
+        "hp100g": "textures/hp/hp100g",
+        "hp99g": "textures/hp/hp99g",
+        "hp98g": "textures/hp/hp98g",
+        "hp97g": "textures/hp/hp97g",
+        "hp96g": "textures/hp/hp96g",
+        "hp95g": "textures/hp/hp95g",
+        "hp94g": "textures/hp/hp94g",
+        "hp93g": "textures/hp/hp93g",
+        "hp92g": "textures/hp/hp92g",
+        "hp91g": "textures/hp/hp91g",
+        "hp90g": "textures/hp/hp90g",
+        "hp89g": "textures/hp/hp89g",
+        "hp88g": "textures/hp/hp88g",
+        "hp87g": "textures/hp/hp87g",
+        "hp86g": "textures/hp/hp86g",
+        "hp85g": "textures/hp/hp85g",
+        "hp84g": "textures/hp/hp84g",
+        "hp83g": "textures/hp/hp83g",
+        "hp82g": "textures/hp/hp82g",
+        "hp81g": "textures/hp/hp81g",
+        "hp80g": "textures/hp/hp80g",
+        "hp79g": "textures/hp/hp79g",
+        "hp78g": "textures/hp/hp78g",
+        "hp77g": "textures/hp/hp77g",
+        "hp76g": "textures/hp/hp76g",
+        "hp75g": "textures/hp/hp75g",
+        "hp74g": "textures/hp/hp74g",
+        "hp73g": "textures/hp/hp73g",
+        "hp72g": "textures/hp/hp72g",
+        "hp71g": "textures/hp/hp71g",
+        "hp70g": "textures/hp/hp70g",
+        "hp69g": "textures/hp/hp69g",
+        "hp68g": "textures/hp/hp68g",
+        "hp67g": "textures/hp/hp67g",
+        "hp66g": "textures/hp/hp66g",
+        "hp65g": "textures/hp/hp65g",
+        "hp64g": "textures/hp/hp64g",
+        "hp63g": "textures/hp/hp63g",
+        "hp62g": "textures/hp/hp62g",
+        "hp61g": "textures/hp/hp61g",
+        "hp60g": "textures/hp/hp60g",
+        "hp59g": "textures/hp/hp59g",
+        "hp58g": "textures/hp/hp58g",
+        "hp57g": "textures/hp/hp57g",
+        "hp56g": "textures/hp/hp56g",
+        "hp55g": "textures/hp/hp55g",
+        "hp54g": "textures/hp/hp54g",
+        "hp53g": "textures/hp/hp53g",
+        "hp52g": "textures/hp/hp52g",
+        "hp51g": "textures/hp/hp51g",
+        "hp50g": "textures/hp/hp50g",
+        "hp49g": "textures/hp/hp49g",
+        "hp48g": "textures/hp/hp48g",
+        "hp47g": "textures/hp/hp47g",
+        "hp46g": "textures/hp/hp46g",
+        "hp45g": "textures/hp/hp45g",
+        "hp44g": "textures/hp/hp44g",
+        "hp43g": "textures/hp/hp43g",
+        "hp42g": "textures/hp/hp42g",
+        "hp41g": "textures/hp/hp41g",
+        "hp40g": "textures/hp/hp40g",
+        "hp39g": "textures/hp/hp39g",
+        "hp38g": "textures/hp/hp38g",
+        "hp37g": "textures/hp/hp37g",
+        "hp36g": "textures/hp/hp36g",
+        "hp35g": "textures/hp/hp35g",
+        "hp34g": "textures/hp/hp34g",
+        "hp33g": "textures/hp/hp33g",
+        "hp32g": "textures/hp/hp32g",
+        "hp31g": "textures/hp/hp31g",
+        "hp30g": "textures/hp/hp30g",
+        "hp29g": "textures/hp/hp29g",
+        "hp28g": "textures/hp/hp28g",
+        "hp27g": "textures/hp/hp27g",
+        "hp26g": "textures/hp/hp26g",
+        "hp25g": "textures/hp/hp25g",
+        "hp24g": "textures/hp/hp24g",
+        "hp23g": "textures/hp/hp23g",
+        "hp22g": "textures/hp/hp22g",
+        "hp21g": "textures/hp/hp21g",
+        "hp20g": "textures/hp/hp20g",
+        "hp19g": "textures/hp/hp19g",
+        "hp18g": "textures/hp/hp18g",
+        "hp17g": "textures/hp/hp17g",
+        "hp16g": "textures/hp/hp16g",
+        "hp15g": "textures/hp/hp15g",
+        "hp14g": "textures/hp/hp14g",
+        "hp13g": "textures/hp/hp13g",
+        "hp12g": "textures/hp/hp12g",
+        "hp11g": "textures/hp/hp11g",
+        "hp10g": "textures/hp/hp10g",
+        "hp9g": "textures/hp/hp9g",
+        "hp8g": "textures/hp/hp8g",
+        "hp7g": "textures/hp/hp7g",
+        "hp6g": "textures/hp/hp6g",
+        "hp5g": "textures/hp/hp5g",
+        "hp4g": "textures/hp/hp4g",
+        "hp3g": "textures/hp/hp3g",
+        "hp2g": "textures/hp/hp2g",
+        "hp1g": "textures/hp/hp1g",
+        "hp0": "textures/hp/hp1g",
+        "blue": "textures/entity/axolotl/axolotl_blue",
+        "cyan": "textures/entity/axolotl/axolotl_cyan",
+        "gold": "textures/entity/axolotl/axolotl_gold",
+        "lucy": "textures/entity/axolotl/axolotl_lucy",
+        "wild": "textures/entity/axolotl/axolotl_wild"
+      },
+      "geometry": {
+        "default": "geometry.axolotl",
+        "hp": "geometry.health_bar"
+      },
+      "animations": {
+        "idle_float": "animation.axolotl.idle_underwater",
+        "idle_floor": "animation.axolotl.idle_floor",
+        "idle_floor_water": "animation.axolotl.idle_floor_underwater",
+        "swim": "animation.axolotl.swim",
+        "walk_floor": "animation.axolotl.walk_floor",
+        "walk_floor_water": "animation.axolotl.walk_floor_underwater",
+        "play_dead": "animation.axolotl.play_dead",
+        "swim_angle": "animation.axolotl.swim_angle",
+        "look_at_target": "animation.common.look_at_target"
+      },
+      "scripts": {
+        "pre_animation": [
+          "variable.moving = query.ground_speed > 0 || query.vertical_speed > 0;",
+          "variable.pitch = query.body_x_rotation;",
+          "variable.health = math.round(query.health / query.max_health * 100);"
+        ]
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.axolotl.general"
+        },
+        {
+          "move": "controller.animation.axolotl.move"
+        },
+        {
+            "hp": "animation.health_mite"
+        }
+      ],
+      "render_controllers": [
+        "controller.render.axolotl",
+        "controller.render.hp_green"
+      ],
+      "spawn_egg": {
+        "base_color": "#0xfbc1e3",
+        "overlay_color": "#0xa62d74"
+      }
+    }
+  }
+}

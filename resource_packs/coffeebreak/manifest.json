@@ -1,0 +1,47 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§l§5C§do§9f§1f§3e§be§aB§2r§ee§6a§ck §rResource Pack",
+        "description": "§rBy §aIamBanky",
+        "uuid": "317da2fe-291d-43b5-b2f2-c62672c70cf3",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "2c4fdf4b-1f2e-40a7-a316-3020f2abc9a8",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "Health Bar",
+            "memory_tier": 2,
+            "name": "Health Bar"
+        },
+        {
+            "folder_name": "Heart + Health Bar",
+            "memory_tier": 1,
+            "name": "Heart + Health Bar\n§l§eNEW!!!"
+        },
+        {
+            "folder_name": "Heart Value",
+            "memory_tier": 0,
+            "name": "Heart Value"
+        }
+        
+    ]
+}

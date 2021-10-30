@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "minecraft:elytra"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "CNC",
+        "###",
+        "# #"
+      ],
+      "key": {
+        "N": {
+          "item": "minecraft:netherite_ingot"
+        },
+        "C": {
+          "item": "minecraft:chorus_fruit"
+        },
+        "#": {
+          "item": "minecraft:phantom_membrane"
+        }
+      },
+      "result": {
+        "item": "minecraft:elytra"
+      }
+    }
+  }
+  
