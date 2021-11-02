@@ -16,7 +16,7 @@
         "minecraft:is_baby": {
         },
         "minecraft:attack": {
-          "damage": 1
+          "damage": 2
         },
         "minecraft:scale": {
           "value": 0.5
@@ -74,8 +74,8 @@
         "on_death": "query.last_hit_by_player ? 5 : 0"
       },
       "minecraft:health": {
-        "value": 40,
-        "max": 40
+        "value": 50,
+        "max": 50
       },
       "minecraft:knockback_resistance": {
         "value": 0.5
@@ -117,7 +117,7 @@
         "breathes_water": true
       },
       "minecraft:movement": {
-        "value": 0.25
+        "value": 0.3
       },
       "minecraft:navigation.walk": {
         "is_amphibious": true,

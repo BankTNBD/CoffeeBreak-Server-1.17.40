@@ -76,8 +76,8 @@
         "height": 0.85
       },
       "minecraft:health": {
-        "value": 30,
-        "max": 30
+        "value": 60,
+        "max": 60
       },
       "minecraft:hurt_on_condition": {
         "damage_conditions": [
@@ -89,13 +89,13 @@
         ]
       },
       "minecraft:movement": {
-        "value": 0.12
+        "value": 0.15
       },
       "minecraft:underwater_movement": {
-        "value": 0.12
+        "value": 0.15
       },
       "minecraft:attack": {
-        "damage": 5
+        "damage": 7
       },
       "minecraft:follow_range": {
         "value": 16,

@@ -23,15 +23,15 @@
       "minecraft:nameable": {
       },
       "minecraft:health": {
-        "value": 10,
-        "max": 10
+        "value": 20,
+        "max": 20
       },
       "minecraft:collision_box": {
         "width": 4.02,
         "height": 4
       },
       "minecraft:movement": {
-        "value": 0.03
+        "value": 0.05
       },
       "minecraft:navigation.float": {
         "can_path_over_water": true

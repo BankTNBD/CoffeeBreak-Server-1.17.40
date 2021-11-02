@@ -15,14 +15,14 @@
           "height": 2.08
         },
         "minecraft:health": {
-          "value": 16,
-          "max": 16
+          "value": 32,
+          "max": 32
         },
         "minecraft:movement": {
-          "value": 0.75
+          "value": 0.8
         },
         "minecraft:attack": {
-          "damage": 6
+          "damage": 9
         },
         "minecraft:loot": {
           "table": "loot_tables/entities/magma_cube.json"
